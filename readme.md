@@ -24,8 +24,8 @@ This project provides an interactive Streamlit dashboard for comprehensive lapto
 ### Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/laptop-analytics-dashboard.git
-cd laptop-analytics-dashboard
+git clone https://github.com/Harrypatria/Machine-Learning-Gallery.git
+cd machine-learning-gallery
 ```
 
 2. Install dependencies
