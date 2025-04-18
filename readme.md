@@ -68,8 +68,3 @@ The dashboard uses a laptop dataset with the following features:
 - **Dashboard**: Streamlit for web application framework
 - **Styling**: Custom CSS for modern UI elements
 
-## License
-MIT
-
-## Author
-Your Name
